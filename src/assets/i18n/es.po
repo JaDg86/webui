@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr "Grupos incorporados"
 
 msgid " Builtin Users"
 msgstr " Usuarios incorporados"
@@ -17,7 +17,7 @@ msgid " Download Updates"
 msgstr "Descargar actualizaciones"
 
 msgid " First data vdev is a "
-msgstr ""
+msgstr " El primer dato vdev es "
 
 msgid " First vdev has "
 msgstr " El primer vdev tiene "
@@ -61,19 +61,19 @@ msgid " and will be disrupted if the pool is locked:"
 msgstr ""
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " grupos incorporados (configuracion por defecto <i>oculta</i>)."
 
 msgid " builtin users (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " usuarios incorporados (configuracion por defecto <i>oculta</i>). "
 
 msgid " but datastore "
 msgstr " pero el almacén de datos "
 
 msgid " day, "
-msgstr ""
+msgstr " día, "
 
 msgid " days, "
-msgstr ""
+msgstr " días, "
 
 msgid " disks"
 msgstr " discos"
@@ -104,22 +104,22 @@ msgstr ""
 "pequeño puede reducir el rendimiento del sistema."
 
 msgid " minute"
-msgstr ""
+msgstr " minuto"
 
 msgid " minutes"
-msgstr ""
+msgstr " minutos"
 
 msgid " official plugins"
-msgstr ""
+msgstr " plugins oficiales"
 
 msgid " seconds"
 msgstr " segundos"
 
 msgid " seconds."
-msgstr ""
+msgstr " segundos."
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " servicio activado."
 
 msgid " should be at least "
 msgstr ""
@@ -128,13 +128,13 @@ msgid " should be no more than "
 msgstr ""
 
 msgid " successfully saved."
-msgstr ""
+msgstr " guardado con exito."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " desbloqueado con exito"
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " sistema encendido y conectado a la red."
 
 msgid " to include all "
 msgstr " para incluir todo "
@@ -177,10 +177,10 @@ msgid "(top-right), then"
 msgstr ""
 
 msgid ", new Metadata vdev is a "
-msgstr ""
+msgstr ", nuevo metadatos vdev es un"
 
 msgid ", new vdev is "
-msgstr ""
+msgstr ", nuevo vdev es "
 
 msgid ". At least one is required."
 msgstr ""
@@ -195,13 +195,13 @@ msgid "0=Disabled, blank=inherit"
 msgstr ""
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "20 caracteres es el maximo."
 
 msgid "2FA"
 msgstr ""
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": Error en la comprobación de actualización automática. Compruebe la configuración de red del sistema."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr ""
@@ -363,7 +363,7 @@ msgid ""
 msgstr ""
 
 msgid "<b>Current Version:</b> "
-msgstr ""
+msgstr "<b>Versión actual:</b> "
 
 msgid ""
 "<b>MOVE</b>: After files are <i><u>copied</u></i> from the source to the "
@@ -419,7 +419,7 @@ msgid ""
 msgstr ""
 
 msgid "<b>rsyncd</b> listens on this port."
-msgstr ""
+msgstr "<b>rsyncd</b> escucha en el puerto."
 
 msgid "<br><b>Warning: Disks cannot be onlined in encrypted pools.</b></br>"
 msgstr ""
@@ -642,7 +642,7 @@ msgid ""
 msgstr ""
 
 msgid "A swap size of 0 is STRONGLY DISCOURAGED."
-msgstr ""
+msgstr "Un tamaño de intercambio de 0 es MUY DESALENTADO."
 
 msgid "A system update is in progress. "
 msgstr "Una actualización del sistema está en progreso. "
@@ -679,7 +679,7 @@ msgid ""
 msgstr ""
 
 msgid "ACL Entries"
-msgstr ""
+msgstr "Entradas de ACL"
 
 msgid "ACL Mode"
 msgstr "Modo de ACL"
@@ -691,7 +691,7 @@ msgid "ACL cannot be changed when the Source is the top-level dataset for a pool
 msgstr ""
 
 msgid "ACME Certificate"
-msgstr ""
+msgstr "Certificado ACME"
 
 msgid "ACME DNS Authenticators"
 msgstr "Autenticadores de DNS ACME"
@@ -712,7 +712,7 @@ msgid "AFP"
 msgstr ""
 
 msgid "AFP (Apple File Protocol)"
-msgstr ""
+msgstr "AFP (Protocolo de archivos de apple)"
 
 msgid "AFP3 Unix Privs"
 msgstr ""
@@ -742,13 +742,13 @@ msgid "AWS Region"
 msgstr ""
 
 msgid "Abort"
-msgstr ""
+msgstr "Acerca de"
 
 msgid "About"
 msgstr "Acerca de"
 
 msgid "About."
-msgstr ""
+msgstr " Acerca de."
 
 msgid "Accent"
 msgstr ""
@@ -760,7 +760,7 @@ msgid "Access Based Share Enumeration"
 msgstr ""
 
 msgid "Access Control Entries"
-msgstr ""
+msgstr "Entradas de control de acceso"
 
 msgid ""
 "Access Control Entry (ACE) user or group. Select a specific <i>User</i> or "
@@ -772,7 +772,7 @@ msgid ""
 msgstr ""
 
 msgid "Access Control List"
-msgstr ""
+msgstr "Lista de control de acceso"
 
 msgid "Access ID Key"
 msgstr ""
@@ -824,7 +824,7 @@ msgid "Acoustic Level"
 msgstr ""
 
 msgid "Action Requires Administrator Confirmation"
-msgstr ""
+msgstr "La acción requiere la confirmación del administrador"
 
 msgid "Actions"
 msgstr "Acciones"
@@ -839,7 +839,7 @@ msgid "Activate this Boot Environment?"
 msgstr ""
 
 msgid "Activate this certificate extension."
-msgstr ""
+msgstr "Active esta extensión de certificado."
 
 msgid ""
 "Activate this module for use with Rsync. Unset this field to deactivate the "
@@ -858,7 +858,7 @@ msgid ""
 msgstr ""
 
 msgid "Activates the replication schedule."
-msgstr ""
+msgstr "Activa la replicación programada."
 
 msgid "Active"
 msgstr "Activo"
@@ -888,13 +888,13 @@ msgid "Add ACME Certificate"
 msgstr "Añadir certificado ACME"
 
 msgid "Add API Key"
-msgstr ""
+msgstr "Añadir llave API"
 
 msgid "Add Additional Path"
 msgstr "Añadir ruta adicional"
 
 msgid "Add Alert Service"
-msgstr ""
+msgstr "Añadir alerta de servicio"
 
 msgid "Add Cloud Credential"
 msgstr ""
@@ -903,22 +903,22 @@ msgid "Add Dataset"
 msgstr ""
 
 msgid "Add Group"
-msgstr ""
+msgstr "Añadir grupo"
 
 msgid "Add Idmap"
 msgstr ""
 
 msgid "Add Interface"
-msgstr ""
+msgstr "Añadir interfaz"
 
 msgid "Add Mountpoint"
 msgstr ""
 
 msgid "Add Recovery Key"
-msgstr ""
+msgstr "Añadir llave de recuperación"
 
 msgid "Add Static Route"
-msgstr ""
+msgstr "Añadir ruta estatica"
 
 msgid "Add Sysctl"
 msgstr ""
@@ -927,19 +927,19 @@ msgid "Add Tunable"
 msgstr ""
 
 msgid "Add User"
-msgstr ""
+msgstr "Añadir usuario"
 
 msgid "Add Vdev"
-msgstr ""
+msgstr "Añadir Vdev"
 
 msgid "Add Vdevs"
-msgstr ""
+msgstr "Añadir Vdevs"
 
 msgid "Add Zvol"
 msgstr "Añadir Zvol"
 
 msgid "Add a name for the new snapshot."
-msgstr ""
+msgstr "Añadir nombre a la nueva instantánea."
 
 msgid ""
 "Add a passphrase to the new  encryption key. This is used to lock and "
@@ -955,7 +955,7 @@ msgid ""
 msgstr ""
 
 msgid "Add any notes about this zvol."
-msgstr ""
+msgstr "Añadir notas sobre este zvol."
 
 msgid ""
 "Add lines to the jail <i>resolv.conf</i>. <b>Example:</b> <i>nameserver "
@@ -971,16 +971,16 @@ msgid ""
 msgstr ""
 
 msgid "Add one or more disks to be used for data."
-msgstr ""
+msgstr "Agregue uno o más discos para usarlos con datos."
 
 msgid "Add one or more disks to extend the pool."
 msgstr ""
 
 msgid "Add or Update a License"
-msgstr ""
+msgstr "Añade o actualiza la licencia"
 
 msgid "Add this user to additional groups."
-msgstr ""
+msgstr "Añadir este usuario grupos adicionales."
 
 msgid ""
 "Added disks are erased, then the pool is extended onto the new disks with "
@@ -1029,10 +1029,10 @@ msgid "Additional Data VDevs to Create"
 msgstr ""
 
 msgid "Additional Domains"
-msgstr ""
+msgstr "Dominions adicionales"
 
 msgid "Additional Hardware"
-msgstr ""
+msgstr "Hardware adicional"
 
 msgid ""
 "Additional Kerberos application settings. See the \"appdefaults\" section "
@@ -1052,7 +1052,7 @@ msgid ""
 msgstr ""
 
 msgid "Additional Parameters"
-msgstr ""
+msgstr "Parametros adicionales"
 
 msgid ""
 "Additional domains to search. Separate entries by  pressing "
